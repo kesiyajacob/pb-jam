@@ -1,7 +1,9 @@
 # PB & Jam
 Our project for QHacks 2025.
 
-### Images
+View the demo here: 
+
+## Gallery
 <img width="1440" height="812" alt="Screenshot 2025-01-26 at 2 02 44 AM" src="https://github.com/user-attachments/assets/4441cb34-eb5f-4e55-8c3c-80ce5ba8bf96" />
 
 <img width="1440" height="812" alt="Screenshot 2025-01-26 at 2 02 55 AM" src="https://github.com/user-attachments/assets/05d51b02-fe7f-4dce-b485-2453213a6b79" />
