@@ -4,7 +4,7 @@ Our project for QHacks 2025.
 
 ## Demo
 View the demo here:
-[![Watch the demo](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=KnsCzGIOdqs "PB & Jam - Demo Video")
+[![Watch the demo](https://github.com/user-attachments/assets/4a31dd71-1a54-4ba8-a013-19728a666ecf)](https://www.youtube.com/watch?v=KnsCzGIOdqs "PB & Jam - Demo Video")
 
 
 ## Gallery
