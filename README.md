@@ -3,6 +3,7 @@ Playlist Bot & Jam (PB & Jam for short) helps find songs based on a carefully cu
 
 Our project for QHacks 2025.
 
+View Devpost here: [PB & Jam Devpost](https://devpost.com/software/pb-j-2zes1d)
 
 ## Demo
 View the demo here:
