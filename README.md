@@ -1,5 +1,5 @@
 # PB & Jam
-Playlist Bot & Jam (PB & Jam for short) helps find songs based on a carefully curated algo-rhythm. Our AI-powered app takes your musical cravings and serves up the perfect playlist or song with the same vibe as your favourite track or current mood.
+Playlist Bot & Jam (PB & Jam for short) helps find songs based on a carefully curated algo-rhythm. Our AI-powered app takes your musical cravings and serves up the perfect playlist or song with the same vibe as your favourite track or current mood. Built with Python, Streamlit, Pandas, NumPy, and the OpenAI API.
 
 Our project for QHacks 2025.
 
